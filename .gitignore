@@ -3,3 +3,4 @@ coverage/
 gopath/
 *.swp
 fleet.conf
+.idea
